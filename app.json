@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A simple To Do App built with the help of React Native",
+    "githubUrl": "https://github.com/Sahitya777/Todoapp"
   }
 }
